@@ -1,0 +1,47 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Pressure Tracker
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+It will be an app/program that gathers data from a watch on a person.  With this, it is able to alert the person if their blood pressure is too low/high, can track heart rhythms for certain medical issues.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+As noted, the program will track certain heart beats and blood pressure for medical issues such as fainting and seizures from those who suffer from neurological health issues or those from blood pressure.
+For this audience, it has been found that with some seizures, the heart can be tracked to slow substantially or possibly stop.  The study I will be referencing will be from those who suffer from
+focal epilepsy, where it was found that the monitoring of heart rhythms occured prior to a seizure.  This program will be linked to a smart watch, similar to a fit bit, that tracks heart rhythms. I will set a certain minimum
+and maximum number of beats per minute into the code.  When it reaches a certain low/high, it will print out a message to be displayed on the user's phone, alerting them.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+There will be an alerting feature installed into the code, syncing it to a device may not be possible in the time allowed, but I hope to work toward it.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+With a certain downloading process, I'll be able to download the code to my mobile device and test it by inputing certain heart beats per minute/rhythm.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The code is able to be linked to my FitBit for a trial run to see if it can import data from a smart watch in real time.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+Before working on my project, I will need to gather more data on the health conditions pertaining to heart rhythms and beats per minute and how they have been and 
+could possibly be tracked.  I will need to learn how to set proper parameters in code.  In working with multiple inputs, I will need to practice my file derivation skills
+to be able to call upon and import data (heart rhythms).  If I am not able to do this in real time, I could use a project such as the data collector where the user inputs their
+heart rhythm for the day in a data sheet, the program reads it, and gives an evaluation as to their progress and any possible alerts for upcoming seizures/health issues
+by the rhythms fluctuations throughout the day.  I will need to research the effectiveness of this method vs. real time.  Additionally, I will continue to research the code used in present heart
+monitors and the alterations I'd be doing with my new device/program.
